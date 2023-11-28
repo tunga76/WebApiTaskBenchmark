@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebApiTaskBenchmark.WebAPI.props" />
+</Project>

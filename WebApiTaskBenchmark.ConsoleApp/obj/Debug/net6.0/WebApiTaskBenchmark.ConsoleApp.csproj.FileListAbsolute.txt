@@ -1,0 +1,15 @@
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\bin\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.exe
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\bin\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.deps.json
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\bin\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.runtimeconfig.json
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\bin\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.dll
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\bin\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.pdb
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.AssemblyInfo.cs
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.dll
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\refint\WebApiTaskBenchmark.ConsoleApp.dll
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.pdb
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\WebApiTaskBenchmark.ConsoleApp.genruntimeconfig.cache
+C:\Users\248211\Desktop\Projects\WebApiTaskBecnhmark\WebApiTaskBenchmark\WebApiTaskBenchmark.ConsoleApp\obj\Debug\net6.0\ref\WebApiTaskBenchmark.ConsoleApp.dll

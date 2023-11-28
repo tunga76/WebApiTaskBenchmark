@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zTVd48ZScZF82MsHngaO/V46MZmmEfSqjU5izmZ2WCw=",
+  "Source": "WebApiTaskBenchmark.WebAPI",
+  "BasePath": "_content/WebApiTaskBenchmark.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
